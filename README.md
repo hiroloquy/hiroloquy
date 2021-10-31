@@ -1,5 +1,5 @@
 #### About Me
-- **Blog**: [Hiroloquy | Hiro's soliloquy] (https://hiroloquy.com/) (written in Japanese, but you can translate in your language easily.)
+- **Blog**: [Hiroloquy | Hiro's soliloquy](https://hiroloquy.com/) (written in Japanese, but you can translate in your language easily.)
 - **YouTube**: [Hiro.S](https://www.youtube.com/channel/UC266rJEcuVzYtJ6ZB2h0rmg)
 - **Twitter**: [@hiroloquy](https://twitter.com/hiroloquy)
 
