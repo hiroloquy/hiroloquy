@@ -5,8 +5,8 @@
 
 #### Languages and Tools
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hiroloquy&show_icons=ture" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroloquy&layout=compact&show_icons=true" />
+  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=hiroloquy&show_icons=ture" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroloquy&layout=compact&show_icons=true" />
 </p>
 
 
