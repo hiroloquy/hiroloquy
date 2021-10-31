@@ -1,4 +1,14 @@
-### Hi there 👋
+#### About Me
+- **Blog**: [Hiroloquy | Hiro's soliloquy] (https://hiroloquy.com/) (written in Japanese, but you can translate in your language easily.)
+- **YouTube**: [Hiro.S](https://www.youtube.com/channel/UC266rJEcuVzYtJ6ZB2h0rmg)
+- **Twitter**: [@hiroloquy](https://twitter.com/hiroloquy)
+
+#### Languages and Tools
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hiroloquy&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroloquy&layout=compact&show_icons=true" />
+</p>
+
 
 <!--
 **hiroloquy/hiroloquy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
